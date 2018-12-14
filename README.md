@@ -1,3 +1,7 @@
+Timeout example for React
+
+Please check console to see different events fired by react-idle-timer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
